@@ -1,3 +1,6 @@
 [submodule "submodule/submodule/account"]
 	path = submodule/submodule/account
 	url = https://github.com/ArkNote02/account.git
+[submodule "submodule/account"]
+	path = submodule/account
+	url = https://github.com/ArkNote02/account.git
